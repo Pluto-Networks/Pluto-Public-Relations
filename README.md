@@ -16,7 +16,7 @@ Note: Any report without the report would be immdediatly deleted as we need to r
 ## For devs
 
 
-    If you need dev accounts contact us on twitter @PlutoRepo    
+    If you need dev account contact us on twitter @PlutoRepo    
 
 
 ## Contributing
