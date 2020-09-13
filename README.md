@@ -10,7 +10,7 @@ While reporting bugs add:
 3. Your Platform (iPhone, iPad, Laptop, Desktop, Andrioid(Why but yea))
 
 ```bash
-Note: Any report without the report would be immdediatly deleted as we need to recreate the bug
+Note: Any report without the following would be immdediatly deleted as we need to recreate the bug
 ```
 
 ## For devs
