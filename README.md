@@ -1,5 +1,5 @@
 # Pluto-Public-Relations
-A Repository to manage Public Relations
+A Repository to manage Public Relations for Pluto-Repo
 
 
 ## Bug Reporting Convention
