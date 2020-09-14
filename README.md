@@ -36,7 +36,7 @@ Please make sure to @ us on twitter after everything except bug reporting as we 
 
 **@woodfairyd** 
 
-**@JospehShenton** 
+**@MrJospehShenton** 
 
 
 ## Note Please Read
