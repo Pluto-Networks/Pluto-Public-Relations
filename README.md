@@ -30,3 +30,10 @@ Please make sure to @ us on twitter after everything except bug reporting as we 
 **@devAgam** (Sole Developer)
 
 **@Thenatis1** (Graphic Designer)
+
+## Special Thanks to 
+**@DevCasp** 
+
+**@woodfairyd** 
+
+**@JospehShenton** 
