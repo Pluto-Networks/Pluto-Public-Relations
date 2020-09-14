@@ -37,3 +37,9 @@ Please make sure to @ us on twitter after everything except bug reporting as we 
 **@woodfairyd** 
 
 **@JospehShenton** 
+
+
+## Note Please Read
+**For any sort of business realted to Pluto will be only managed by @Techishala and @devAgam**
+
+**WE DON'T HAVE ANY OTHER PERSON IN OUR TEAM WHO HAS ACCESS TO OUR SOURCE CODE IN ANY WAY SHAPE OR FORM**
