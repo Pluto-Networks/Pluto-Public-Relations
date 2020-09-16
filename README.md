@@ -31,6 +31,8 @@ Please make sure to @ us on twitter after everything except bug reporting as we 
 
 **@Thenatis1** (Graphic Designer)
 
+**@MatrixUsman** (DevOps Engineer)
+
 ## Special Thanks to 
 **@DevCasp** 
 
