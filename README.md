@@ -25,13 +25,12 @@ If you want to help us apart from bug report send us your experience details and
 Please make sure to @ us on twitter after everything except bug reporting as we are monitoring it all the time.
 
 ## Managers 
-**@Techishala** (Owner and Funding)
 
 **@devAgam** (Sole Developer)
 
-**@Thenatis1** (Graphic Designer)
+**@MatrixUsman** (Admin)
 
-**@MatrixUsman** (DevOps Engineer)
+**@Thenatis1** (Graphic Designer)
 
 ## Special Thanks to 
 **@DevCasp** 
